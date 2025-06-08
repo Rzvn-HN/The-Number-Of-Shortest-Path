@@ -1,6 +1,5 @@
-# The-Number-Of-Shortest-Path
+# 🛣️ The-Number-Of-Shortest-Path
 
-# 🛣️ Shortest Paths Counter (Java)
 
 This Java program finds the number of distinct shortest paths between city `0` and city `n - 1` in a connected, undirected, weighted graph.
 
